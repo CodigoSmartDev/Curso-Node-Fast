@@ -1,0 +1,26 @@
+
+{
+    "automoviles": [
+        {
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "año": 2021,
+            "color": "Blanco",
+            "precio": 25000
+        },
+        {
+            "marca": "Ford",
+            "modelo": "Mustang",
+            "año": 2020,
+            "color": "Rojo",
+            "precio": 45000
+        },
+        {
+            "marca": "Chevrolet",
+            "modelo": "Camaro",
+            "año": 2019,
+            "color": "Negro",
+            "precio": 40000
+        }
+    ]
+}
